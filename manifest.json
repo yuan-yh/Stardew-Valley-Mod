@@ -1,0 +1,9 @@
+{
+    "Name": "SVM:-)",
+    "Author": "YY",
+    "Version": "1.0.0",
+    "Description": "Farms begines here.",
+    "UniqueID": "YY.SVM",
+    "EntryDll": "SVM.dll",
+    "MinimumApiVersion": "4.0.0"
+}

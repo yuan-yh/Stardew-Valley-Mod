@@ -1,0 +1,6 @@
+C:\Users\vinv1\Desktop\New folder\bilibili\stardew-valley-mod\obj\Debug\net6.0\stardew-valley-mod.csproj.AssemblyReference.cache
+C:\Users\vinv1\Desktop\New folder\bilibili\stardew-valley-mod\obj\Debug\net6.0\stardew-valley-mod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinv1\Desktop\New folder\bilibili\stardew-valley-mod\obj\Debug\net6.0\stardew-valley-mod.AssemblyInfoInputs.cache
+C:\Users\vinv1\Desktop\New folder\bilibili\stardew-valley-mod\obj\Debug\net6.0\stardew-valley-mod.AssemblyInfo.cs
+C:\Users\vinv1\Desktop\New folder\bilibili\stardew-valley-mod\obj\Debug\net6.0\stardew-valley-mod.csproj.CoreCompileInputs.cache
+C:\Users\vinv1\Desktop\New folder\bilibili\stardew-valley-mod\obj\Debug\net6.0\stardew-valley-mod.sourcelink.json
