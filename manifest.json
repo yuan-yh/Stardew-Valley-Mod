@@ -1,9 +1,9 @@
 {
-    "Name": "SVM:-)",
+    "Name": "stardew-valley-mod",
     "Author": "YY",
     "Version": "1.0.0",
     "Description": "Farms begines here.",
-    "UniqueID": "YY.SVM",
-    "EntryDll": "SVM.dll",
+    "UniqueID": "YY.stardew-valley-mod",
+    "EntryDll": "stardew-valley-mod.dll",
     "MinimumApiVersion": "4.0.0"
 }

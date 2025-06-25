@@ -4,3 +4,6 @@ C:\Users\vinv1\Desktop\New folder\bilibili\stardew-valley-mod\obj\Debug\net6.0\s
 C:\Users\vinv1\Desktop\New folder\bilibili\stardew-valley-mod\obj\Debug\net6.0\stardew-valley-mod.AssemblyInfo.cs
 C:\Users\vinv1\Desktop\New folder\bilibili\stardew-valley-mod\obj\Debug\net6.0\stardew-valley-mod.csproj.CoreCompileInputs.cache
 C:\Users\vinv1\Desktop\New folder\bilibili\stardew-valley-mod\obj\Debug\net6.0\stardew-valley-mod.sourcelink.json
+C:\Users\vinv1\Desktop\New folder\bilibili\stardew-valley-mod\bin\Debug\net6.0\stardew-valley-mod.deps.json
+C:\Users\vinv1\Desktop\New folder\bilibili\stardew-valley-mod\bin\Debug\net6.0\stardew-valley-mod.dll
+C:\Users\vinv1\Desktop\New folder\bilibili\stardew-valley-mod\obj\Debug\net6.0\stardew-valley-mod.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("stardew-valley-mod")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5bc37ac8bc812f7d7517963ffe2d3057e067ea50")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4b1119927059d0589602361842cf0b98fa0e1ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("stardew-valley-mod")]
 [assembly: System.Reflection.AssemblyTitleAttribute("stardew-valley-mod")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
